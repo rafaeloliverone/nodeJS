@@ -14,3 +14,5 @@ docker run --name mongodb -p 27017:27017 -d mongo
 docker start mongodb
 
 npm install mongoose
+
+npm install require-dir
