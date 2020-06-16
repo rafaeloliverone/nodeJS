@@ -2,3 +2,7 @@ npm init -y
 npm install express
 
 node server.js -> run the server 
+
+npm install nodemon -D
+
+npm run dev
