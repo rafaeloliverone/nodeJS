@@ -6,3 +6,11 @@ node server.js -> run the server
 npm install nodemon -D
 
 npm run dev
+
+docker pull mongo 
+
+docker run --name mongodb -p 27017:27017 -d mongo
+
+docker start mongodb
+
+npm install mongoose
