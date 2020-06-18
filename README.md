@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  CRUD Api desenvolvida com um único model Product sendo persistido no mongoDB para fixação dos conhecimentos abordados no curso.  
+  CRUD API desenvolvida com um único model Product sendo persistido no mongoDB para fixação dos conhecimentos abordados no curso.  
   <a href="https://skylab.rocketseat.com.br/journey/starter">NodeJS Starter</a> 🎓
 </p>
 
